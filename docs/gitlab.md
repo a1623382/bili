@@ -82,7 +82,7 @@
 ![](images/gitlab/0.png)
 依次按上图序号点击，创建一个新的 CI/CD 流水线。
 
-如果你希望 CI/CD 流水线内容始终跟随[上游](https://github.com/a1623382/bili/.gitlab-ci.yml)，直接将本仓库中 [.gitlab-ci.yml](https://github.com/a1623382/bili/.gitlab-ci.yml) 文件内容复制覆盖粘贴到编辑器中。
+如果你希望 CI/CD 流水线内容始终跟随[上游](https://github.com/a1623382/bili)，直接将本仓库中 [.gitlab-ci.yml](https://github.com/a1623382/bili/blob/main/.gitlab-ci.yml) 文件内容复制覆盖粘贴到编辑器中。
 
 确保编辑后的工作流显示 `此 GitLab CI 配置有效` ，随后点击页面下方 `提交更改` 。
 
